@@ -361,6 +361,7 @@ if (null_string == true)
     }
     Console.WriteLine("max flow:" + mf);
 }
+Console.ReadLine();
 void WriteArray(int[,] e) 
 {
     Console.WriteLine($"\nS\t{e[0,0]}\t{e[0,1]}\t{e[0,2]}\t{e[0,3]}");

@@ -1,0 +1,11 @@
+C:\Users\shens\OneDrive\Рабочий стол\issledovanie operatsiy\Operations-research\WindowsForms2\bin\Debug\WindowsForms2.exe.config
+C:\Users\shens\OneDrive\Рабочий стол\issledovanie operatsiy\Operations-research\WindowsForms2\bin\Debug\WindowsForms2.exe
+C:\Users\shens\OneDrive\Рабочий стол\issledovanie operatsiy\Operations-research\WindowsForms2\bin\Debug\WindowsForms2.pdb
+C:\Users\shens\OneDrive\Рабочий стол\issledovanie operatsiy\Operations-research\WindowsForms2\obj\Debug\WindowsForms2.csproj.AssemblyReference.cache
+C:\Users\shens\OneDrive\Рабочий стол\issledovanie operatsiy\Operations-research\WindowsForms2\obj\Debug\WindowsForms2.csproj.SuggestedBindingRedirects.cache
+C:\Users\shens\OneDrive\Рабочий стол\issledovanie operatsiy\Operations-research\WindowsForms2\obj\Debug\WindowsForms2.Form1.resources
+C:\Users\shens\OneDrive\Рабочий стол\issledovanie operatsiy\Operations-research\WindowsForms2\obj\Debug\WindowsForms2.Properties.Resources.resources
+C:\Users\shens\OneDrive\Рабочий стол\issledovanie operatsiy\Operations-research\WindowsForms2\obj\Debug\WindowsForms2.csproj.GenerateResource.cache
+C:\Users\shens\OneDrive\Рабочий стол\issledovanie operatsiy\Operations-research\WindowsForms2\obj\Debug\WindowsForms2.csproj.CoreCompileInputs.cache
+C:\Users\shens\OneDrive\Рабочий стол\issledovanie operatsiy\Operations-research\WindowsForms2\obj\Debug\WindowsForms2.exe
+C:\Users\shens\OneDrive\Рабочий стол\issledovanie operatsiy\Operations-research\WindowsForms2\obj\Debug\WindowsForms2.pdb
